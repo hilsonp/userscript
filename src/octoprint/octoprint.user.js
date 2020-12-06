@@ -6,6 +6,7 @@
 //               - Change the height of the webcam container
 // @author       Pierre Hilson
 // @match        http://*/octoprint/
+// @downloadURL  https://github.com/hilsonp/userscript/raw/main/src/octoprint/octoprint.user.js
 // @grant        none
 // ==/UserScript==
 
